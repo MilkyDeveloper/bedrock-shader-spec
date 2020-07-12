@@ -1,5 +1,7 @@
 # 🇧​🇪​🇩​🇷​🇴​🇨​🇰​ 🇸​🇭​🇦​🇩​🇪​🇷​ 🇸​🇵​🇪​🇨
 
+It's seems like your using the README.md repository version of this. You can use [the formatted version here](https://milky-developer.github.io/bedrock-shader-spec/).
+
 <sub><sup>Please, feel free to use this guideline anywhere for your shaders. It's licensed over the unlicense meaning you can do anything with it.<br>Made by MilkyDeveloper and other contributors<br> Version 1<br>Made at an attempt to unify the shader community</sup></sub>
 
 <details close>
